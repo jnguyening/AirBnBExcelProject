@@ -11,3 +11,7 @@ Retention cohort analysis is a method for studying how different cohorts of cust
 - How does customer behavior change over time within different cohorts?
 
 This project focuses on implementing retention cohort analysis using SQL on customer data.
+
+## Note
+
+The Dashboard for this project can be found on my Tableau Public Profile, found here: https://public.tableau.com/app/profile/john.nguyen3007#!/?newProfile=&activeTab=0
